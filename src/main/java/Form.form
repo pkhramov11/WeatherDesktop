@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Form">
+  <grid id="27dc6" binding="mainPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="9" y="17" width="429" height="309"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="71c89" layout-manager="GridBagLayout">
+        <constraints border-constraint="South"/>
+        <properties/>
+        <border type="none"/>
+        <children/>
+      </grid>
+      <component id="54c86" class="javax.swing.JTextArea" binding="textArea1" default-binding="true">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <alignmentX value="0.5"/>
+          <columns value="0"/>
+          <preferredSize width="1" height="17"/>
+        </properties>
+        <clientProperties>
+          <caretWidth class="java.lang.Integer" value="0"/>
+          <html.disable class="java.lang.Boolean" value="false"/>
+        </clientProperties>
+      </component>
+    </children>
+  </grid>
+</form>
